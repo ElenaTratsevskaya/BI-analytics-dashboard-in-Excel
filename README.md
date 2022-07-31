@@ -1,2 +1,2 @@
 # BI-analytics-dashboard-in-Excel
-Creating a dashboard based on regional branches data
+Linked tables on the main types of expenses of regional branches. 
