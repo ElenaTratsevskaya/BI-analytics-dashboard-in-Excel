@@ -1,7 +1,7 @@
 # BI-analytics-dashboard-in-Excel
 Regional branches efficiency report in Excel. Linked tables on the main types of expenses of regional branches. 
 
- Задачи:
+ **Задачи:**
 1. Сравнить величину расходов по каждому магазину
 2. Выяснить, какую долю занимают расходы каждого магазина
 Определить ТОП-3 магазинов в каждой категории расходов
